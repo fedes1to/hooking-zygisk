@@ -1,4 +1,4 @@
-# PoC Hooking test, 
+# PoC Hooking test
 ## !!succesfully builds but doesn't run
 
 TODO LIST:
